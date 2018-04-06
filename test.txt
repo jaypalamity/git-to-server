@@ -1,1 +1,2 @@
-hi jay
+<?php 
+echo 'hi jay';
